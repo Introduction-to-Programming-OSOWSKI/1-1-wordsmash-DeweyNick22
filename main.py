@@ -1,5 +1,5 @@
-def WordSmash(a, b):
-    print(a+b )
+def wordSmash(a, b):
+    return a + b 
 
-WordSmash("cat","dog")
+wordSmash("joe","gato")
 
